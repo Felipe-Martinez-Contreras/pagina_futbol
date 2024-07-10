@@ -40,3 +40,42 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Node artifacts
+/node_modules
+
+
+# Logs
+/logs
+
+# IDEs and editors
+/.vscode
+/.idea
+*.suo
+*.ntvs*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Typescript
+*.tsbuildinfo
+
+# Angular specific
+/test.ts
+/karma.conf.js
+/protractor.conf.js
+
+# Environment variables
+.env
+
+# Global npm packages
+/npm-debug.log
+
+# Yarn
+/yarn-error.log
+.pnp.*
